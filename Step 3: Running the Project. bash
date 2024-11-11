@@ -1,0 +1,4 @@
+
+Run Django Server: python manage.py runserver
+Run Celery Worker: celery -A ai_video_generator worker -l info
+Run React Frontend: npm start
