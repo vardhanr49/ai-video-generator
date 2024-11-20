@@ -1,3 +1,0 @@
-django-admin startproject ai_video_generator
-cd ai_video_generator
-python manage.py startapp ai_generator
